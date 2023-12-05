@@ -10,4 +10,5 @@
 An website built on Svelte. The website was built from Rectify11's property (Basically based on Rectify11's Source Code
 
 Info about the project:
-Nano11 is an Windows mod that aims to make Windows
+
+Nano11 is an Windows 11 mod that aims to make Windows smaller by removing Microsoft's bloat and useless tracking services. It also makes Windows 11 look better by changing the default Wallpapers, the Branding logo seen in winver, and much more.
